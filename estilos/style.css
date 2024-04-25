@@ -10,8 +10,8 @@ body{
 
 
 main{
-    background-color: rgb(63, 46, 23);
+    background-color: rgb(247, 243, 239);
     width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgb(231, 225, 225);
 }
